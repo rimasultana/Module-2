@@ -28,7 +28,7 @@ text-decoration: underline;
     color: blue;
     background-color: aquamarine;
     font-size: 20px;
-    text-decoration: underline;
+    text-decoration: 
  }
  ol{
     color: aquamarine;
@@ -41,6 +41,6 @@ text-decoration: underline;
     }
     h2{
         display: block;
-        text-decoration: underline;
+        
         
     }
