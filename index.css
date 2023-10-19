@@ -1,7 +1,20 @@
+header{
+    color: black;
+    background-color: chartreuse;
+    font-size: 50px;
+    text-align: center;
+    height: 400px;
+    background-image:url(image/photo-1575936123452-b67c3203c357.jpeg);
+background-size: 30%;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
 h1{
     color: red;
 background-color: aliceblue;
-text-align: center;
+text-align: left;
 
 }
 h3{
